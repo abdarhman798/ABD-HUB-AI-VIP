@@ -343,7 +343,7 @@ local VIPSupporters = {
     ["Qaisa7779"] = true, 
     ["gggggggghhhghgj"] = true,
    ["SXB_1c"] = true,
-   [" omar_787k9"] = true,
+   ["omar_787k9"] = true,
     } 
 -- 👑 الملاك والمساعدين 👑 --
 local Admins = {
